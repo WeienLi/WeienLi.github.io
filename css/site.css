@@ -224,9 +224,8 @@ p {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  object-position: 50% 18%;
-  transform: scale(1.04);
-  transform-origin: 50% 18%;
+  object-position: 50% 12%;
+  transform: none;
 }
 
 .rs-epigraph {
