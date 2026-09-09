@@ -373,6 +373,11 @@ p {
   margin-bottom: 0.35rem;
 }
 
+.rs-page-title + .rs-epigraph {
+  margin-top: 0.85rem;
+  margin-bottom: 1rem;
+}
+
 .rs-page-lead {
   max-width: 40rem;
   color: var(--muted);
