@@ -307,6 +307,7 @@ p {
 
 .rs-prose a,
 .rs-inline a,
+.rs-job a,
 .rs-pub__links a,
 .rs-cv {
   color: var(--pine);
