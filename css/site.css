@@ -180,6 +180,21 @@ p {
   text-decoration: none;
 }
 
+.rs-links .rs-community {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  vertical-align: middle;
+}
+
+.rs-community img {
+  flex: 0 0 auto;
+  width: 1.75rem;
+  height: 1.75rem;
+  object-fit: contain;
+  mix-blend-mode: multiply;
+}
+
 .rs-links a:hover,
 .rs-links a.is-current {
   color: var(--pine);
